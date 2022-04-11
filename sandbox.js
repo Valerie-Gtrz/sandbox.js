@@ -11,3 +11,4 @@ function whatDoTheySay(type) {
 }
 whatDoTheySay("human");
 
+//comment added for commit
